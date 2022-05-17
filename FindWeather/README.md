@@ -1,0 +1,1 @@
+It will give temperature stats of input city.
